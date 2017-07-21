@@ -1,0 +1,50 @@
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\Bin\Debug\Assets\ApplicationIcon.png
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.dll
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\Bin\Debug\AppManifest.xaml
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\obj\Debug\App.g.cs
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\obj\Debug\MainPage.g.cs
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.Resources.AppResources.resources
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.csproj.GenerateResource.Cache
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.dll
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.pdb
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\obj\Debug\XapCacheFile.xml
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\obj\Debug\hb.g.cs
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\obj\Debug\Page1.g.cs
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\obj\Debug\hg.g.cs
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\obj\Debug\mb.g.cs
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\obj\Debug\mg.g.cs
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\obj\Debug\cb.g.cs
+D:\cse592\PROJECT baby\PhoneApp1\PhoneApp1\obj\Debug\cg.g.cs
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\Bin\Debug\Assets\ApplicationIcon.png
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\Bin\Debug\PhoneApp1.dll
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\Bin\Debug\AppManifest.xaml
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\obj\Debug\App.g.cs
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\obj\Debug\cb.g.cs
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\obj\Debug\cg.g.cs
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\obj\Debug\hb.g.cs
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\obj\Debug\hg.g.cs
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\obj\Debug\MainPage.g.cs
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\obj\Debug\mb.g.cs
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\obj\Debug\mg.g.cs
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\obj\Debug\Page1.g.cs
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\obj\Debug\PhoneApp1.Resources.AppResources.resources
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\obj\Debug\PhoneApp1.csproj.GenerateResource.Cache
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\obj\Debug\PhoneApp1.dll
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\obj\Debug\PhoneApp1.pdb
+D:\cse592\PROJECT baby\babyname finder\PhoneApp1\obj\Debug\XapCacheFile.xml

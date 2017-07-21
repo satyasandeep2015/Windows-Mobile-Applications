@@ -1,0 +1,47 @@
+D:\cse592\friend\friend\Bin\Debug\Assets\ApplicationIcon.png
+D:\cse592\friend\friend\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\cse592\friend\friend\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\cse592\friend\friend\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\cse592\friend\friend\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\cse592\friend\friend\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\cse592\friend\friend\Bin\Debug\friend.dll
+D:\cse592\friend\friend\Bin\Debug\friend.pdb
+D:\cse592\friend\friend\Bin\Debug\AppManifest.xaml
+D:\cse592\friend\friend\Bin\Debug\friend_Debug_AnyCPU.xap
+D:\cse592\friend\friend\obj\Debug\App.g.cs
+D:\cse592\friend\friend\obj\Debug\MainPage.g.cs
+D:\cse592\friend\friend\obj\Debug\friend.g.resources
+D:\cse592\friend\friend\obj\Debug\friend.Resources.AppResources.resources
+D:\cse592\friend\friend\obj\Debug\friend.csproj.GenerateResource.Cache
+D:\cse592\friend\friend\obj\Debug\friend.dll
+D:\cse592\friend\friend\obj\Debug\friend.pdb
+D:\cse592\friend\friend\obj\Debug\XapCacheFile.xml
+D:\cse592\friend\friend\Bin\Debug\Microsoft.Expression.Controls.dll
+D:\cse592\friend\friend\Bin\Debug\Microsoft.Expression.Drawing.dll
+D:\cse592\friend\friend\obj\Debug\friend.csprojResolveAssemblyReference.cache
+D:\cse592\friend\friend\obj\Debug\Page1.g.cs
+D:\cse592\friend\friend\obj\Debug\result.g.cs
+D:\to-let finder\CSE592\friend\friend\Bin\Debug\Assets\ApplicationIcon.png
+D:\to-let finder\CSE592\friend\friend\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\to-let finder\CSE592\friend\friend\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\to-let finder\CSE592\friend\friend\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\to-let finder\CSE592\friend\friend\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\to-let finder\CSE592\friend\friend\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\to-let finder\CSE592\friend\friend\Bin\Debug\friend.dll
+D:\to-let finder\CSE592\friend\friend\Bin\Debug\friend.pdb
+D:\to-let finder\CSE592\friend\friend\Bin\Debug\AppManifest.xaml
+D:\to-let finder\CSE592\friend\friend\Bin\Debug\Properties\WMAppManifest.xml
+D:\to-let finder\CSE592\friend\friend\Bin\Debug\friend_Debug_AnyCPU.xap
+D:\to-let finder\CSE592\friend\friend\Bin\Debug\Microsoft.Expression.Controls.dll
+D:\to-let finder\CSE592\friend\friend\Bin\Debug\Microsoft.Expression.Drawing.dll
+D:\to-let finder\CSE592\friend\friend\obj\Debug\friend.csprojResolveAssemblyReference.cache
+D:\to-let finder\CSE592\friend\friend\obj\Debug\App.g.cs
+D:\to-let finder\CSE592\friend\friend\obj\Debug\MainPage.g.cs
+D:\to-let finder\CSE592\friend\friend\obj\Debug\Page1.g.cs
+D:\to-let finder\CSE592\friend\friend\obj\Debug\result.g.cs
+D:\to-let finder\CSE592\friend\friend\obj\Debug\friend.g.resources
+D:\to-let finder\CSE592\friend\friend\obj\Debug\friend.Resources.AppResources.resources
+D:\to-let finder\CSE592\friend\friend\obj\Debug\friend.csproj.GenerateResource.Cache
+D:\to-let finder\CSE592\friend\friend\obj\Debug\friend.dll
+D:\to-let finder\CSE592\friend\friend\obj\Debug\friend.pdb
+D:\to-let finder\CSE592\friend\friend\obj\Debug\XapCacheFile.xml
